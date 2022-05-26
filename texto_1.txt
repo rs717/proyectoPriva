@@ -1,1 +1,2 @@
 archivo de texto 1 desde github
+modifico este texto desde otro ordenador
